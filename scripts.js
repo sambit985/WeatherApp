@@ -1,5 +1,5 @@
 const appConstants = {
- apiKey: "<YOUR OWN API KEY>",
+ apiKey: "82dc35ae1f29a3117458ae4a8f1255c9",
  baseUrl: "https://api.openweathermap.org/data/2.5/weather",
  units: "metric",
  unknownValue: "NA",
